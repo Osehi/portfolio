@@ -1,0 +1,30 @@
+div.bar1 {
+    background-image: url('/img/osehi2.png');
+    background-color: grey;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: local;
+    background-position: center;
+    height: 650px;
+    border-right:2px solid goldenrod;
+}
+
+div.bar2 {
+    background-image: url('/img/code-coder-coding-270348new\ copy.jpg');
+    background-color: goldenrod;
+    background-size: cover;
+    background-position: center;
+    background-attachment: local;
+    background-repeat: no-repeat;
+    height: 650px;
+}
+
+.first {
+    color: khaki;
+}
+
+ hr {
+    border: 1px solid khaki;
+    
+
+}
