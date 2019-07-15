@@ -5,7 +5,7 @@ div.bar1 {
     background-repeat: no-repeat;
     background-attachment: local;
     background-position: center;
-    height: 650px;
+    min-height: 650px;
     border-right:2px solid goldenrod;
 }
 
@@ -16,7 +16,7 @@ div.bar2 {
     background-position: center;
     background-attachment: local;
     background-repeat: no-repeat;
-    height: 650px;
+    min-height: 650px;
 }
 
 .first {
@@ -24,7 +24,17 @@ div.bar2 {
 }
 
  hr {
-    border: 1px solid khaki;
-    
+    border: 2px solid khaki;
+    border-bottom: 1px solid rgba(14, 160, 99, 0.5);
+    width:50%;
 
+}
+
+.first h3 {
+    text-align: center;
+}
+
+.first p {
+    text-align: center;
+    font-size: 20px;
 }
