@@ -1,5 +1,5 @@
 div.bar1 {
-    background-image: url('/img/osehi2.png');
+    background-image: url('../img/osehi2.png');
     background-color: grey;
     background-size: cover;
     background-repeat: no-repeat;
@@ -10,7 +10,7 @@ div.bar1 {
 }
 
 div.bar2 {
-    background-image: url('/img/code-coder-coding-270348new\ copy.jpg');
+    background-image: url('../img/code-coder-coding-270348new\ copy.jpg');
     background-color: goldenrod;
     background-size: cover;
     background-position: center;
